@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Madhukesh 👋
+
+## I'm a Software Developer. 
+
+## Find me around the web 🌎:
+- Twitter: https://twitter.com/MadhukeshD
+- LinkedIn: https://www.linkedin.com/in/madhukesh-d/
+
+
 
 <!--
 **madhukesh048/madhukesh048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
